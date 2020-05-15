@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "",
+        "Tipo": "Escuela pública",
+        "Nombre": "Escuela Manuel de Frías",
+        "Horario de apertura": "8:00",
+        "Horario de cierre": "13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.16640841960907,
+          -27.953771424292043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#60d7d0",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1c8e8e",
+        "fill-opacity": 0.5,
+        "Tipo": "",
+        "Nombre": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.1661080121994,
+              -27.953946749775447
+            ],
+            [
+              -65.16621530056,
+              -27.95341603392517
+            ],
+            [
+              -65.16675174236298,
+              -27.953501327719906
+            ],
+            [
+              -65.16663908958435,
+              -27.954041520188486
+            ],
+            [
+              -65.1661080121994,
+              -27.953946749775447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Tipo": "Escuela Terciaria",
+        "Nombre": "IFD N°16",
+        "Hoario de apertura": "19:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.16564130783081,
+              -27.955989033756293
+            ],
+            [
+              -65.16573250293732,
+              -27.955638389137793
+            ],
+            [
+              -65.16622066497803,
+              -27.955718942732
+            ],
+            [
+              -65.16613483428955,
+              -27.9560648486592
+            ],
+            [
+              -65.16564130783081,
+              -27.955989033756293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "",
+        "Tipo": "Escuela Terciaria",
+        "Nombre": "IFD N°16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1659631729126,
+          -27.955846880669846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#2d777d",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#275183",
+        "fill-opacity": 0.5,
+        "Tipo": "Escuela Publica",
+        "Nombre": "Jardín de Infantes Capullito",
+        "Horario de apertura": "9:00 -15:00HS",
+        "Horario de cierre ": "12: 00- 18:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.166757106781,
+              -27.953501327719906
+            ],
+            [
+              -65.16737669706345,
+              -27.953584252177965
+            ],
+            [
+              -65.16743034124374,
+              -27.953375756276454
+            ],
+            [
+              -65.16680806875229,
+              -27.95327861600304
+            ],
+            [
+              -65.166757106781,
+              -27.953501327719906
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "",
+        "Tipo": "Escuela Publica",
+        "Nombre": "Jardín de Infantes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.16707628965378,
+          -27.95342788028958
+        ]
+      }
+    }
+  ]
+}
